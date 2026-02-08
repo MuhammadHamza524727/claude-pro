@@ -1,3 +1,4 @@
+![Claude Pro Upgrade Page](/image.png)
 # Claude Pro + Claude Code CLI Setup Guide (Urdu/Hindi Explanation)
 
 Yeh repo mera YouTube video ke saath hai jisme main step-by-step batata hoon ki **Claude AI ka paid Pro version** kaise lete hain (mobile se card add karke), aur phir **terminal (CLI) mein Claude Code** kaise chalate hain — bilkul free extra credits ke baghair (sirf Pro subscription se).
