@@ -3,7 +3,7 @@
 
 Yeh repo mera YouTube video ke saath hai jisme main step-by-step batata hoon ki **Claude AI ka paid Pro version** kaise lete hain (mobile se card add karke), aur phir **terminal (CLI) mein Claude Code** kaise chalate hain — bilkul free extra credits ke baghair (sirf Pro subscription se).
 
-**Video Link:** []  
+**Video Link:** [https://youtu.be/uDSI5eNIOrM]  
 (Video mein full demo hai: payment, login fix, error solve "Credit balance too low", project mein use.)
 
 ## Requirements
