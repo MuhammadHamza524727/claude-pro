@@ -78,4 +78,4 @@ yad rhe google or chrome pr same gmail se login rho jise ai use krte ho ya proej
 Agar video pasand aaye to like, subscribe, comment kar dena! Questions ho to GitHub issues mein pooch lo ya video comments mein.
 
 Made with ❤️ by Muhammad Hamza (https://linktr.ee/muhammadhamza524727) - Karachi, Pakistan
-```
+
